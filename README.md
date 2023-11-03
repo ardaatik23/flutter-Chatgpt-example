@@ -1,16 +1,15 @@
-# new1
+# AI Assistant
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş bir yapay zeka asistanıdır. Kullanıcıların metin tabanlı mesajlar göndererek isteklerini iletebileceği ve bu isteklere yanıt olarak yapay zeka modelinin oluşturduğu cevapları alabileceği bir iletişim aracıdır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Metin tabanlı kullanıcı arayüzü
+- Kullanıcının mesajlarını alarak yapay zeka modeline ileten bir iletişim katmanı
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Kurulum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Projeyi klonlayın:
+   ```bash
+   git clone https://github.com/ardaatik23/flutter-Chatgpt-example.git
