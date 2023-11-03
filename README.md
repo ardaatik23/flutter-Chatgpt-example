@@ -1,6 +1,6 @@
 # AI Assistant
 
-Bu proje, Flutter kullanılarak geliştirilmiş bir yapay zeka asistanıdır. Kullanıcıların metin tabanlı mesajlar göndererek isteklerini iletebileceği ve bu isteklere yanıt olarak yapay zeka modelinin oluşturduğu cevapları alabileceği bir iletişim aracıdır.
+Bu proje, Flutter kullanılarak geliştirilmiş bir yapay zeka asistanıdır. Kullanıcıların metin tabanlı mesajlar göndererek isteklerini iletebileceği ve bu isteklere yanıt olarak yapay zeka modelinin oluşturduğu cevapları alabileceği bir iletişim aracıdır. Ancak Uygulamada API kullanılmadığı için tüm sorulara cevap verememektedir. Bu konuda destek sağlamak isteyenler arda23atik@gmail.com hesabına mail atarak projeyi geliştirebiliriz.
 
 ## Özellikler
 
